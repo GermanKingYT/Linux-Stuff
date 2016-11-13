@@ -1,16 +1,5 @@
 #!/usr/bin/env python
 
-"""
-
-    Nagios plugin to report Memory usage by parsing /proc/meminfo
-    
-    by L.S. Keijser <keijser@stone-it.com>
-
-    This script takes Cached memory into consideration by adding that
-    to the total MemFree value.
-
-"""
-
 from optparse import OptionParser
 import sys
 
