@@ -1,4 +1,5 @@
 # Linux-Stuff
 
-DDoS Scripts\n
+DDoS Scripts
+
 ShellUDP Scripts
