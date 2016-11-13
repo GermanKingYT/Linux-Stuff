@@ -1,21 +1,4 @@
 #! /usr/bin/python
-############################################################################
-# Copyright 2013 George Hansper                                            #
-# This program has been made available to the Open Source community for    #
-# redistribution and further development under the terms of the            #
-# GNU General Public License v2: http://www.gnu.org/licenses/gpl-2.0.html  #
-############################################################################
-# This program is supplied 'as-is', in the hope that it will be useful,    #
-# but the author does not make any warranties or guarantees as             #
-# to its correct operation.                                                #
-#                                                                          #
-# Or in other words:                                                       #
-#       Test it yourself, and make sure it works for YOU.                  #
-############################################################################
-# Author: George Hansper                     e-mail:  george@hansper.id.au #
-# This plugin was originally based on check_cpu.py written by              #
-# Kirk Hammond <kirkdhammond@gmail.com>                                    #
-############################################################################
 
 Version = "1.7 $Id: 34e1f936687630763264047f56c1bfc9ea9c1dd3 $"
 
